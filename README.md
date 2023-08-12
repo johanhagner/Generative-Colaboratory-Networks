@@ -9,4 +9,4 @@ This repository contain a notebook with a novel architecture called Generative C
 3. **Pixel-wise Discrimination**: GCNs break away from GANs' sample-wise discrimination approach, adopting a more detailed pixel-wise discrimination method instead.
 
 ## Link to the notebook:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/johanhagner/Generative-Colaboratory-Networks/blob/main/gcn.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/johanhagner/Generative-Colaboratory-Networks/blob/main/gcn.ipynb)
