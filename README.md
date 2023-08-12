@@ -1,6 +1,6 @@
 # Generative Cooperative Networks (GCNs)
 
-This repository contain a notebook with a novel architecture called Generative Cooperative Networks (GCNs) for image pre-ocessing using the CIFAR-10 dataset. Instead of conventional adversarial objectives used in Generative Adversarial Networks (GANs), GCNs pivot towards joint representation learning.
+This repository contain a notebook with a novel architecture called Generative Cooperative Networks (GCNs) for image pre-processing using the CIFAR-10 dataset.
 
 ## Key functionalities:
 
